@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guriya kumari</h1>
-<h3 align="center">I'm a competitive programmer as well as a web devlelopment enthusiast,i am always trying to learn new stuffs and trying to improve my skills.</h3>
+<h3 align="center">I'm a competitive programmer as well as a web devlopment enthusiast,i am always trying to learn new stuffs and trying to improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guriyakumari551&label=Profile%20views&color=0e75b6&style=flat" alt="guriyakumari551" /> </p>
 
