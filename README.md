@@ -1,8 +1,6 @@
-#header {
-color: green;
-    }
+
 <h1 align="center">Hi 👋, I'm Guriya kumari</h1>
-<h3 id="header",align="center">Final year BTECH EE (2023) </h3>
+<h3 align="center">Final year BTECH EE (2023) </h3>
 <h3 align="center">Web developer </h3>
 <h3 align="center">Competitive Programmer </h3>
 
@@ -12,9 +10,9 @@ color: green;
 
 - 📫 How to reach me **guriyakumarigupta551@gmail.com**
 
-- ⚡ Fun fact **I think i am a funny type .**
+- ⚡ Fun fact **Smily Face .**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With me</h3>
 <p align="left">
 <a href="https://mobile.twitter.com/Guriyak20808627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guriya kumari" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/guriya-kumari-4938261a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guriya kumari" height="30" width="40" /></a>
