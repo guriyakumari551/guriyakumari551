@@ -2,7 +2,7 @@
 color: green;
     }
 <h1 align="center">Hi 👋, I'm Guriya kumari</h1>
-<h3 id="header"align="center">Final year BTECH EE (2023) </h3>
+<h3 id="header",align="center">Final year BTECH EE (2023) </h3>
 <h3 align="center">Web developer </h3>
 <h3 align="center">Competitive Programmer </h3>
 
