@@ -1,8 +1,7 @@
 
-<h1 align="center">Hi 👩, I'm Guriya kumari</h1>
-<h3 align="center">Final Year BTECH EE (2023) </h3>
-<h3 align="center">Web developer </h3>
-<h3 align="center">Competitive Programmer </h3>
+<h1 align="center">I am Guriya Kumari, Currently working as a Software Engineer</h1>
+<h3 align="center">Previously worked in ACKO as a backend developer. </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guriyakumari551&label=Profile%20views&color=0e75b6&style=flat" alt="guriyakumari551" /> </p>
 
